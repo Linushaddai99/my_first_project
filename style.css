@@ -1,0 +1,31 @@
+body {
+    background-color: #000000;
+    font-size: 18px;
+    
+}
+#top-header {
+    background: gray;
+    border: 2px blue solid;
+}
+.red-text {
+    color: red;
+}
+.silver-background {
+background-color: silver;
+} 
+h1 {
+font-family: sans-serif;
+}
+p {
+font-family: monospace;
+}
+.thick-green-border {
+border-color: green;
+border-width: 10px;
+border-style: solid;
+border-radius: 50%
+}
+.smaller-image {
+    width: 100px;
+}
+    
